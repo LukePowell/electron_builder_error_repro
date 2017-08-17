@@ -1,0 +1,1 @@
+{"name":"completedtutorial_7","productName":"CompletedTutorial 7","version":"1.0.0","main":"main.js","build":{"directories":{"output":"../executables"}},"scripts":{"start":"electron .","package":"build --mac"},"author":"lukepowell","license":"UNLICENSED","devDependencies":{"electron":"^1.4.1"}}
